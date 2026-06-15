@@ -2,3 +2,4 @@
 
 1. Đinh Minh Hòa
 2. [Lê Trần Nhật Huy](NhatHuy.md)
+3. [Nguyễn Đức Trí](NguyenDucTri.md)
